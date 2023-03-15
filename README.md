@@ -19,8 +19,3 @@
 </div>
   
   ##
- 
-<div> 
- <a href="https://www.linkedin.com/in/danieellfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danieellfreitas@outlook.com"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-</div>
