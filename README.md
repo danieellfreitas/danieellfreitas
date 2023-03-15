@@ -1,7 +1,6 @@
 ## Hi, my name is Daniel Freitas 👋
 - 🔭 I currently work in front-end
 - 🌱 I'm studying to be full-stack
-- 📫 To get in touch danieellfreitas@outlook.com
 - 😄 Pronouns: he/him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieellfreitas&count_private=true&show_icons=true&theme=transparent)
