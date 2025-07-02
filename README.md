@@ -1,7 +1,5 @@
 ## Hi, my name is Daniel Freitas 👋
-- 🔭 I currently work in front-end
-- 🌱 I'm studying to be full-stack
-- 😄 Pronouns: he/him
+- 🌱 I'm currently work/studying to be Back-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieellfreitas&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieellfreitas&langs_count=10&layout=compact&theme=transparent)
