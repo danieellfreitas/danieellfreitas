@@ -1,9 +1,8 @@
-## Hi, my name is Daniel Freitas 👋
+# Hi, my name is Daniel Freitas 👋
 - 🌱 I'm currently work/studying to be Back-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieellfreitas&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieellfreitas&langs_count=10&layout=compact&theme=transparent)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danieellfreitas&repo=PrimeiroGit&theme=transparent)
 
 
 <div style="display: inline_block"><br>
